@@ -1,0 +1,10 @@
+E:\11\پروژه پودمان4\4\4\bin\Debug\4.exe.config
+E:\11\پروژه پودمان4\4\4\bin\Debug\4.exe
+E:\11\پروژه پودمان4\4\4\bin\Debug\4.pdb
+E:\11\پروژه پودمان4\4\4\obj\Debug\4.csprojResolveAssemblyReference.cache
+E:\11\پروژه پودمان4\4\4\obj\Debug\_4.Form1.resources
+E:\11\پروژه پودمان4\4\4\obj\Debug\_4.Properties.Resources.resources
+E:\11\پروژه پودمان4\4\4\obj\Debug\4.csproj.GenerateResource.Cache
+E:\11\پروژه پودمان4\4\4\obj\Debug\4.exe
+E:\11\پروژه پودمان4\4\4\obj\Debug\4.pdb
+E:\11\پروژه پودمان4\4\4\obj\Debug\_4.worod.resources

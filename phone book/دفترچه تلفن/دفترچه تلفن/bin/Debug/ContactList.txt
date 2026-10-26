@@ -1,0 +1,6 @@
+System.Windows.Forms.TextBox, Text: زهرا	|System.Windows.Forms.TextBox, Text: محمدی	|System.Windows.Forms.TextBox, Text: 0992658415	|System.Windows.Forms.TextBox, Text: تهران
+زهرا	|محمدی	|09933924589	|تهران
+بهاره	|روحی	|0965896445	|اردبیل
+بهاره	|روحی	|09654722565	|تهران
+زهرا	|نصیری	|09252222111	|تهران
+بهاره	|روحی	|025642565	|ننتتتتتتتتتتتتتتتتتتتتتتتت

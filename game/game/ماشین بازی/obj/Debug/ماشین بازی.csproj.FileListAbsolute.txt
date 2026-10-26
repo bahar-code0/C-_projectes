@@ -1,0 +1,15 @@
+E:\11\c#\ماشین بازی\ماشین بازی\ماشین بازی\bin\Debug\ماشین بازی.exe.config
+E:\11\c#\ماشین بازی\ماشین بازی\ماشین بازی\bin\Debug\ماشین بازی.exe
+E:\11\c#\ماشین بازی\ماشین بازی\ماشین بازی\bin\Debug\ماشین بازی.pdb
+E:\11\c#\ماشین بازی\ماشین بازی\ماشین بازی\obj\Debug\ماشین بازی.csprojResolveAssemblyReference.cache
+E:\11\c#\ماشین بازی\ماشین بازی\ماشین بازی\obj\Debug\ماشین_بازی.Form1.resources
+E:\11\c#\ماشین بازی\ماشین بازی\ماشین بازی\obj\Debug\ماشین_بازی.Properties.Resources.resources
+E:\11\c#\ماشین بازی\ماشین بازی\ماشین بازی\obj\Debug\ماشین بازی.csproj.GenerateResource.Cache
+E:\11\c#\ماشین بازی\ماشین بازی\ماشین بازی\obj\Debug\ماشین بازی.exe
+E:\11\c#\ماشین بازی\ماشین بازی\ماشین بازی\obj\Debug\ماشین بازی.pdb
+E:\11\c#\game\ماشین بازی\ماشین بازی\bin\Debug\ماشین بازی.exe.config
+E:\11\c#\game\ماشین بازی\ماشین بازی\obj\Debug\ماشین بازی.exe
+E:\11\c#\game\ماشین بازی\ماشین بازی\obj\Debug\ماشین بازی.pdb
+E:\11\c#\game\game\ماشین بازی\bin\Debug\ماشین بازی.exe.config
+E:\11\c#\game\game\ماشین بازی\obj\Debug\ماشین بازی.exe
+E:\11\c#\game\game\ماشین بازی\obj\Debug\ماشین بازی.pdb

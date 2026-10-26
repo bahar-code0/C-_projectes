@@ -1,0 +1,24 @@
+H:\11 net\c#\p5\New folder\k2\k2\bin\Debug\k2.exe.config
+H:\11 net\c#\p5\New folder\k2\k2\bin\Debug\k2.exe
+H:\11 net\c#\p5\New folder\k2\k2\bin\Debug\k2.pdb
+H:\11 net\c#\p5\New folder\k2\k2\obj\Debug\k2.csprojAssemblyReference.cache
+H:\11 net\c#\p5\New folder\k2\k2\obj\Debug\k2.Form1.resources
+H:\11 net\c#\p5\New folder\k2\k2\obj\Debug\k2.Properties.Resources.resources
+H:\11 net\c#\p5\New folder\k2\k2\obj\Debug\k2.csproj.GenerateResource.cache
+H:\11 net\c#\p5\New folder\k2\k2\obj\Debug\k2.exe
+H:\11 net\c#\p5\New folder\k2\k2\obj\Debug\k2.pdb
+D:\New folder\k2\k2\bin\Debug\k2.exe.config
+D:\New folder\k2\k2\obj\Debug\k2.exe
+D:\New folder\k2\k2\obj\Debug\k2.pdb
+E:\11\c#\New folder\k2\k2\bin\Debug\k2.exe.config
+E:\11\c#\New folder\k2\k2\obj\Debug\k2.exe
+E:\11\c#\New folder\k2\k2\obj\Debug\k2.pdb
+E:\11\c#\Notepade\k2\k2\bin\Debug\k2.exe.config
+E:\11\c#\Notepade\k2\k2\obj\Debug\k2.exe
+E:\11\c#\Notepade\k2\k2\obj\Debug\k2.pdb
+E:\11\c#\Notepade\k2\k2\bin\Debug\k2.exe
+E:\11\c#\Notepade\k2\k2\bin\Debug\k2.pdb
+E:\11\c#\Notepade\k2\k2\obj\Debug\k2.csprojResolveAssemblyReference.cache
+E:\11\c#\Notepade\k2\k2\obj\Debug\k2.Form1.resources
+E:\11\c#\Notepade\k2\k2\obj\Debug\k2.Properties.Resources.resources
+E:\11\c#\Notepade\k2\k2\obj\Debug\k2.csproj.GenerateResource.Cache
